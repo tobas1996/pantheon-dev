@@ -16,7 +16,7 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
  */
 include __DIR__ . "/settings.pantheon.php";
 
-$settings['config_sync_directory'] = '../../config/sync';
+$settings['config_sync_directory'] = '../../config';
 
 
 /**
